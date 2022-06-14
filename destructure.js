@@ -21,7 +21,9 @@ console.log(leader);
 
 function song(){
     const lyric = "Lagao na aro jore bachelor party song";
-    console.log(lyric);
+    const lyric2 = "Noyono sorosi keno vorese jole, koto ki royese lekha kajole kajole.";
+    const totalLyric = `${lyric} ${lyric2}`;
+    console.log(totalLyric);
 }
 
 song();
