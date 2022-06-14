@@ -18,3 +18,10 @@ const complexObject = {
 
 const {leader} = complexObject.info;
 console.log(leader);
+
+function song(){
+    const lyric = "Lagao na aro jore bachelor party song";
+    console.log(lyric);
+}
+
+song();
